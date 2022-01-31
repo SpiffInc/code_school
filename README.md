@@ -11,4 +11,6 @@ Also join us in the #code-school channel and ask questions throughout the week a
 ## recommended_courses(not all inclusive)
   - [Complete Web Development Bootcamp](https://spiff.udemy.com/course/the-complete-web-development-bootcamp/)
   - [Complete Ruby on Rails Developer Course](https://spiff.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
+  - [Learn to Code with Ruby](https://spiff.udemy.com/course/learn-to-code-with-ruby-lang/)
+  - [Learn to Code with Python](https://spiff.udemy.com/course/learn-to-code-with-python/)
   - More recommendations to come!
