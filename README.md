@@ -13,4 +13,5 @@ Also join us in the #code-school channel and ask questions throughout the week a
   - [Complete Ruby on Rails Developer Course](https://spiff.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
   - [Learn to Code with Ruby](https://spiff.udemy.com/course/learn-to-code-with-ruby-lang/)
   - [Learn to Code with Python](https://spiff.udemy.com/course/learn-to-code-with-python/)
+  - [Automate The Boring Stuff With Python](https://spiff.udemy.com/course/automate/)
   - More recommendations to come!
