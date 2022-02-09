@@ -14,4 +14,6 @@ Also join us in the #code-school channel and ask questions throughout the week a
   - [Learn to Code with Ruby](https://spiff.udemy.com/course/learn-to-code-with-ruby-lang/)
   - [Learn to Code with Python](https://spiff.udemy.com/course/learn-to-code-with-python/)
   - [Automate The Boring Stuff With Python](https://spiff.udemy.com/course/automate/)
+  - [Git and Github Bootcamp](https://spiff.udemy.com/course/git-and-github-bootcamp/)
+  - [Javascript Algorithms and Data Structures](https://spiff.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
   - More recommendations to come!
