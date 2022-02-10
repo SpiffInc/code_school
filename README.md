@@ -6,8 +6,8 @@ Code School is a program that combines learning resources in Udemy(suggestions b
 
 We meet twice a week and both meetings are optional and get you access to engineers to ask questions.
 
-Tuesdays from 10:00am-10:30am Mountain
-Wednesdays from 3:00pm-4:00pm Mountain 
+- Tuesdays from 10:00am-10:30am Mountain
+- Wednesdays from 3:00pm-4:00pm Mountain 
 
 All the meetings are held on zoom at https://spiff.zoom.us/j/88089581749?pwd=TEVTajl5WUZ1SkFMR1I5VXpyR09NQT09. 
 
